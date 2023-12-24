@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vlad - Challenge</string>
+
+    <string name="menu_item_start">Start</string>
+    <string name="menu_item_stop">Stop</string>
+
+    <string name="notification_tracking_channel">User location tracking notifications</string>
+    <string name="notification_tracking_ongoing_message">User location tracking on-going</string>
+
+    <string name="dialog_location_rationale_title">Sorry</string>
+    <string name="dialog_location_rationale_message">This app only works using precise location. High accuracy insures appropriate photos for the passed locations.</string>
+    <string name="dialog_location_rationale_close_app">Close the app</string>
+    <string name="dialog_location_rationale_go_to_settings">OK, bring me to settings</string>
+</resources>
